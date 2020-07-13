@@ -1,4 +1,7 @@
-### Hi there 👋
+# Ghazanfar Mir [![HitCount](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir.svg)](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir)
+## PHP Developer @ Virgin Media (Apr 2018 - PRESENT)
+
+Working with Object Oriented PHP, Symfony, MySQL to develop in house tools to help maintaining inventory and development projects.
 
 <!--
 **GhazanfarMir/GhazanfarMir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
