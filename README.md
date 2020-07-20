@@ -5,7 +5,7 @@ Mainly backend developer with extensive experience in Object Oriented PHP, MVC F
 
 I have interests in:
  - Reading about new technologies and open source projects
- - DevOps
+ - DevOps (AWS)
  - Photography when I have spare
 
 Some of my open source projects:
