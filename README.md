@@ -1,4 +1,4 @@
-# Ghazanfar Mir [![HitCount](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir.svg)](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir)
+# 👋 Ghazanfar Mir [![HitCount](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir.svg)](http://hits.dwyl.com/ghazanfarmir/ghazanfarmir)
 ### PHP Developer @ Virgin Media (Apr 2018 - PRESENT)
 
 Backend developer with extensive experience in Object Oriented PHP, MVC Framework (Symfony/Laravel), databases (MySQL). Also have experience with front end technologies stack.
