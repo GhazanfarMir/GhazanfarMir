@@ -1,5 +1,5 @@
 # 👋 Ghazanfar Mir
-### Symfony Developer @ Virgin Media (Apr 2018 - PRESENT)
+### Senior Developer @ Virgin Media (Apr 2018 - PRESENT)
 
 Backend developer with extensive experience in Object Oriented PHP, MVC Framework (Symfony/Laravel), Python (django), databases (MySQL). Also have experience with front end technologies stack.
 
